@@ -12,23 +12,31 @@
     "address": "plebwhales.eth"
   },
   {
-    "title": "Videos",
-    "address": "12D3KooWS9PKoMEX3gn8x6aiG19TjEWzR9eG9hAM8ZDTjWnkDnwn"
+    "title": "politically-incorrect.eth",
+    "address": "politically-incorrect.eth"
   },
   {
-    "title": "Politics",
-    "address": "12D3KooWC4ypBsqMr828UKAkdcRJtWymqLch85j6KBno79ArX7v6"
+    "title": "business-and-finance.eth",
+    "address": "business-and-finance.eth"
   },
   {
-    "title": "Crypto",
-    "address": "12D3KooWNNbKYvKqkW6zHKUoqcjtNsoN2LovCXoM2vWYXLbf1wjs"
+    "title": "movies-tv-anime.eth",
+    "address": "movies-tv-anime.eth"
   },
   {
-    "title": "Gifs",
-    "address": "12D3KooWD5gcWPFEbPviFPedCVwVCne9qzKzpZvy9dT3Cmm6qvbP"
+    "title": "videos-livestreams-podcasts.eth",
+    "address": "videos-livestreams-podcasts.eth"
   },
   {
-    "title": "Funny",
-    "address": "12D3KooWStjdLE3LYL9XTUDC1BEuuLSQ3KLRoqYxFYzrJzq1PvkG"
+    "title": "health-nutrition-science.eth",
+    "address": "health-nutrition-science.eth"
+  },
+  {
+    "title": "censorship-watch.eth",
+    "address": "censorship-watch.eth"
+  },
+  {
+    "title": "reddit-screenshots.eth",
+    "address": "reddit-screenshots.eth"
   }
 ]
