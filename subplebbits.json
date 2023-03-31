@@ -1,6 +1,6 @@
 [
   {
-    "title": "Esteban's test sub",
+    "title": "Test sub",
     "address": "12D3KooWG3XbzoVyAE6Y9vHZKF64Yuuu4TjdgQKedk14iYmTEPWu"
   },
   {
@@ -12,31 +12,26 @@
     "address": "plebwhales.eth"
   },
   {
-    "title": "politically-incorrect.eth",
+    "title": "/pol/",
     "address": "politically-incorrect.eth"
   },
   {
-    "title": "business-and-finance.eth",
+    "title": "/biz/",
     "address": "business-and-finance.eth"
   },
   {
-    "title": "movies-tv-anime.eth",
     "address": "movies-tv-anime.eth"
   },
   {
-    "title": "videos-livestreams-podcasts.eth",
     "address": "videos-livestreams-podcasts.eth"
   },
   {
-    "title": "health-nutrition-science.eth",
     "address": "health-nutrition-science.eth"
   },
   {
-    "title": "censorship-watch.eth",
     "address": "censorship-watch.eth"
   },
   {
-    "title": "reddit-screenshots.eth",
     "address": "reddit-screenshots.eth"
   }
 ]
