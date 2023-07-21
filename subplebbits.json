@@ -8,10 +8,6 @@
     "address": "plebtoken.eth"
   },
   {
-    "title": "Thrifty Plebs",
-    "address": "12D3KooWLiXLKwuWmfzwTRtBasTzDQVNagv8zU63eCEcdw2dT4zB"
-  },
-  {
     "title": "/pol/",
     "address": "politically-incorrect.eth"
   },
@@ -36,6 +32,10 @@
   },
   {
     "address": "plebbit-italy.eth"
+  },
+  {
+    "title": "Thrifty Plebs",
+    "address": "12D3KooWLiXLKwuWmfzwTRtBasTzDQVNagv8zU63eCEcdw2dT4zB"
   },
   {
     "title": "Plebs Helping Plebs",
