@@ -76,7 +76,19 @@
     "title": "Anti Plebbit",
     "address": "antiplebbit.eth"
   },
-   {
+  {
+    "title": "Ask Plebbit",
+    "address": "askplebbit.eth"
+  },
+  {
+    "title": "Current Events",
+    "address": "currentevents.eth"
+  },
+  {
+    "title": "So I Became Comfy",
+    "address": "soibecamecomfy.eth"
+  },
+  {
     "title": "Server of indecision",
     "address": "12D3KooWNsRyNMfd1sn6TDztxmVnR13gD5Q4HnJiDzdm1qacGYJu"
   }
