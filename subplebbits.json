@@ -8,63 +8,128 @@
     "address": "12D3KooWAdnytMQQMvAk8a6T7tLTCJCpcjh88FN25foambA5wYxP"
   },
   {
-    "address": "meta.plebchan.eth"
+    "address": "meta.plebchan.eth",
+    "tags": [
+      "plebchan",
+      "web3"
+    ]
   },
   {
     "title": "Plebbit Token",
-    "address": "plebtoken.eth"
+    "address": "plebtoken.eth",
+    "tags": [
+      "ethereum",
+      "ETH",
+      "crypto"
+    ]
   },
   {
     "title": "Plebbit Lore",
-    "address": "pleblore.eth"
+    "address": "pleblore.eth",
+    "tags": [
+      "storytelling"
+    ]
   },
   {
     "title": "Brasilandia",
-    "address": "brasilandia.eth"
+    "address": "brasilandia.eth",
+    "tags": [
+      "brazil"
+    ]
   },
   {
     "title": "/pol/",
-    "address": "politically-incorrect.eth"
+    "address": "politically-incorrect.eth",
+    "tags": [
+      "politics",
+      "news"
+    ]
   },
   {
     "title": "/biz/",
-    "address": "business-and-finance.eth"
+    "address": "business-and-finance.eth",
+    "tags": [
+      "crypto",
+      "defi",
+      "finance",
+      "business"
+    ]
   },
   {
-    "address": "movies-tv-anime.eth"
+    "address": "movies-tv-anime.eth",
+    "tags": [
+      "movies",
+      "tv",
+      "anime"
+    ]
   },
   {
-    "address": "plebmusic.eth"
+    "address": "plebmusic.eth",
+    "tags": [
+      "music"
+    ]
   },
   {
-    "address": "videos-livestreams-podcasts.eth"
+    "address": "videos-livestreams-podcasts.eth",
+    "tags": [
+      "podcast",
+      "video",
+      "livestream"
+    ]
   },
   {
-    "address": "health-nutrition-science.eth"
+    "address": "health-nutrition-science.eth",
+    "tags": [
+      "health",
+      "fitness"
+    ]
   },
   {
-    "address": "censorship-watch.eth"
+    "address": "censorship-watch.eth",
+    "tags": [
+      "censorship",
+      "freespeech"
+    ]
   },
   {
-    "address": "reddit-screenshots.eth"
+    "address": "reddit-screenshots.eth",
+    "tags": [
+      "reddit",
+      "funny"
+    ]
   },
   {
-    "address": "plebbit-italy.eth"
+    "address": "plebbit-italy.eth",
+    "tags": [
+      "italy"
+    ]
   },
   {
-    "address": "weaponized-autism.eth"
+    "address": "weaponized-autism.eth",
+    "tags": [
+      "motivation",
+      "autism"
+    ]
   },
   {
     "address": "monarkia.eth"
   },
   {
-    "address": "mktwallet.eth"
+    "address": "mktwallet.eth",
+    "tags": [
+      "marketing",
+      "business"
+    ]
   },
   {
     "address": "pleblabs.eth"
   },
   {
-    "address": "💩posting.eth"
+    "address": "💩posting.eth",
+    "tags": [
+      "funny",
+      "meme"
+    ]
   },
   {
     "address": "bitcoinbrothers.eth"
@@ -73,7 +138,10 @@
     "address": "plebbrothers.eth"
   },
   {
-    "address": "networkeconomics.eth"
+    "address": "networkeconomics.eth",
+    "tags": [
+      "networking"
+    ]
   },
   {
     "title": "Thrifty Plebs",
@@ -97,7 +165,11 @@
   },
   {
     "title": "Current Events",
-    "address": "currentevents.eth"
+    "address": "currentevents.eth",
+    "tags": [
+      "politics",
+      "news"
+    ]
   },
   {
     "title": "So I Became Comfy",
@@ -107,5 +179,4 @@
     "title": "Server of indecision",
     "address": "12D3KooWNsRyNMfd1sn6TDztxmVnR13gD5Q4HnJiDzdm1qacGYJu"
   }
-  
 ]
