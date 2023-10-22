@@ -17,6 +17,9 @@
       "tags": [
         "plebchan",
         "web3"
+      ],
+      "features": [
+        "sfw"
       ]
     },
     {
@@ -26,6 +29,9 @@
         "ethereum",
         "ETH",
         "crypto"
+      ],
+      "features": [
+        "sfw"
       ]
     },
     {
@@ -33,6 +39,9 @@
       "address": "pleblore.eth",
       "tags": [
         "storytelling"
+      ],
+      "features": [
+        "sfw"
       ]
     },
     {
@@ -40,6 +49,9 @@
       "address": "brasilandia.eth",
       "tags": [
         "brazil"
+      ],
+      "features": [
+        "sfw"
       ]
     },
     {
@@ -66,12 +78,18 @@
         "movies",
         "tv",
         "anime"
+      ],
+      "features": [
+        "sfw"
       ]
     },
     {
       "address": "plebmusic.eth",
       "tags": [
         "music"
+      ],
+      "features": [
+        "sfw"
       ]
     },
     {
@@ -87,6 +105,9 @@
       "tags": [
         "health",
         "fitness"
+      ],
+      "features": [
+        "sfw"
       ]
     },
     {
@@ -107,6 +128,9 @@
       "address": "plebbit-italy.eth",
       "tags": [
         "italy"
+      ],
+      "features": [
+        "sfw"
       ]
     },
     {
