@@ -158,12 +158,6 @@
       "address": "plebbrothers.eth"
     },
     {
-      "address": "networkeconomics.eth",
-      "tags": [
-        "networking"
-      ]
-    },
-    {
       "title": "Thrifty Plebs",
       "address": "12D3KooWLiXLKwuWmfzwTRtBasTzDQVNagv8zU63eCEcdw2dT4zB"
     },
@@ -195,9 +189,5 @@
       "title": "So I Became Comfy",
       "address": "soibecamecomfy.eth"
     },
-    {
-      "title": "Server of indecision",
-      "address": "12D3KooWNsRyNMfd1sn6TDztxmVnR13gD5Q4HnJiDzdm1qacGYJu"
-    }
   ]
 }
