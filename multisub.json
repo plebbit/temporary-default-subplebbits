@@ -13,16 +13,6 @@
       "address": "12D3KooWAdnytMQQMvAk8a6T7tLTCJCpcjh88FN25foambA5wYxP"
     },
     {
-      "address": "meta.plebchan.eth",
-      "tags": [
-        "plebchan",
-        "web3"
-      ],
-      "features": [
-        "sfw"
-      ]
-    },
-    {
       "title": "Plebbit Token",
       "address": "plebtoken.eth",
       "tags": [
