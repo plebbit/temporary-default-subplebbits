@@ -9,6 +9,18 @@
       "address": "12D3KooWG3XbzoVyAE6Y9vHZKF64Yuuu4TjdgQKedk14iYmTEPWu"
     },
     {
+      "title": "Plebbit Token",
+      "address": "plebtoken.eth",
+      "tags": [
+        "ethereum",
+        "eth",
+        "crypto"
+      ],
+      "features": [
+        "sfw"
+      ]
+    },
+    {
       "title": "Plebbit Lore",
       "address": "pleblore.eth",
       "tags": [
@@ -42,6 +54,15 @@
         "movies",
         "tv",
         "anime"
+      ],
+      "features": [
+        "sfw"
+      ]
+    },
+    {
+      "address": "plebmusic.eth",
+      "tags": [
+        "music"
       ],
       "features": [
         "sfw"
