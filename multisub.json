@@ -99,6 +99,36 @@
         "reddit",
         "funny"
       ]
+    },
+    {
+      "address": "weaponized-autism.eth",
+      "tags": [
+        "motivation",
+        "autism"
+      ]
+    },
+    {
+      "address": "monarkia.eth"
+    },
+    {
+      "address": "mktwallet.eth",
+      "tags": [
+        "marketing",
+        "business"
+      ]
+    },
+    {
+      "address": "monarkia.eth"
+    },
+    {
+      "title": "Brasilandia",
+      "address": "brasilandia.eth",
+      "tags": [
+        "brazil"
+      ],
+      "features": [
+        "sfw"
+      ]
     }
   ]
 }
