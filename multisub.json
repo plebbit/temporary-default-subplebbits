@@ -131,6 +131,12 @@
       "features": [
         "sfw"
       ]
+    },
+    {
+      "title": "Pleb Council",
+      "address": "plebcouncil.eth",
+      "tags": [],
+      "features": []
     }
   ]
 }
