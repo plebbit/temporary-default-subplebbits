@@ -17,6 +17,18 @@
       ]
     },
     {
+      "title": "$PLEB Whales",
+      "address": "plebwhales.eth",
+      "tags": [
+        "plebbit",
+        "crypto",
+        "eth"
+      ],
+      "features": [
+        "sfw"
+      ]
+    },
+    {
       "title": "Plebbit Lore",
       "address": "pleblore.eth",
       "tags": [
