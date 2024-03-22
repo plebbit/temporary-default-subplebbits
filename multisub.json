@@ -39,6 +39,12 @@
       ]
     },
     {
+      "title": "Reddit Death",
+      "address": "redditdeath.sol",
+      "tags": ["reddit"],
+      "features": ["sfw"]
+    },
+    {
       "title": "/pol/",
       "address": "politically-incorrect.eth",
       "tags": [
