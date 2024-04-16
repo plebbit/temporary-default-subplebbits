@@ -39,6 +39,27 @@
       ]
     },
     {
+      "title": "Plebs Helping Plebs",
+      "address": "plebshelpingplebs.eth",
+      "tags": [
+        "help"
+      ],
+      "features": [
+        "sfw"
+      ]
+    },
+        {
+      "title": "Decentralized Scam",
+      "address": "decentralizedscam.eth",
+      "tags": [
+        "decentralization",
+        "scams"
+      ],
+      "features": [
+        "sfw"
+      ]
+    },
+    {
       "title": "Reddit Death",
       "address": "redditdeath.sol",
       "tags": ["reddit"],
