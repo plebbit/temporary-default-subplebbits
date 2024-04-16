@@ -181,6 +181,9 @@
         "solana",
         "blanket"
       ]
+    },
+    {
+      "address": "plebshelpingplebs.eth"
     }
   ]
 }
