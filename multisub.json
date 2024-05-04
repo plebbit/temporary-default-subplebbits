@@ -8,9 +8,11 @@
       "title": "Plebbit Token",
       "address": "plebtoken.eth",
       "tags": [
-        "ethereum",
-        "eth",
-        "crypto"
+        "ens",
+        "plebbit",
+        "project",
+        "support",
+        "token"
       ],
       "features": [
         "sfw"
@@ -20,9 +22,9 @@
       "title": "$PLEB Whales",
       "address": "plebwhales.eth",
       "tags": [
+        "ens",
         "plebbit",
-        "crypto",
-        "eth"
+        "random"
       ],
       "features": [
         "sfw"
@@ -32,7 +34,9 @@
       "title": "Plebbit Lore",
       "address": "pleblore.eth",
       "tags": [
-        "storytelling"
+        "ens",
+        "plebbit",
+        "random"
       ],
       "features": [
         "sfw"
@@ -42,18 +46,21 @@
       "title": "Plebs Helping Plebs",
       "address": "plebshelpingplebs.eth",
       "tags": [
-        "help"
+        "ens",
+        "plebbit",
+        "random",
+        "support"
       ],
       "features": [
         "sfw"
       ]
     },
-        {
+    {
       "title": "Decentralized Scam",
       "address": "decentralizedscam.eth",
       "tags": [
-        "decentralization",
-        "scams"
+        "ens",
+        "random"
       ],
       "features": [
         "sfw"
@@ -62,33 +69,36 @@
     {
       "title": "Reddit Death",
       "address": "redditdeath.sol",
-      "tags": ["reddit"],
-      "features": ["sfw"]
+      "tags": [
+        "sns",
+        "topic"
+      ],
+      "features": [
+        "sfw"
+      ]
     },
     {
       "title": "/pol/",
       "address": "politically-incorrect.eth",
       "tags": [
-        "politics",
-        "news"
+        "ens",
+        "topic",
+        "vulgar"
       ]
     },
     {
       "title": "/biz/",
       "address": "business-and-finance.eth",
       "tags": [
-        "crypto",
-        "defi",
-        "finance",
-        "business"
+        "ens",
+        "topic"
       ]
     },
     {
       "address": "movies-tv-anime.eth",
       "tags": [
-        "movies",
-        "tv",
-        "anime"
+        "ens",
+        "topic"
       ],
       "features": [
         "sfw"
@@ -97,7 +107,8 @@
     {
       "address": "plebmusic.eth",
       "tags": [
-        "music"
+        "ens",
+        "topic"
       ],
       "features": [
         "sfw"
@@ -106,16 +117,15 @@
     {
       "address": "videos-livestreams-podcasts.eth",
       "tags": [
-        "podcast",
-        "video",
-        "livestream"
+        "ens",
+        "topic"
       ]
     },
     {
       "address": "health-nutrition-science.eth",
       "tags": [
-        "health",
-        "fitness"
+        "ens",
+        "topic"
       ],
       "features": [
         "sfw"
@@ -124,39 +134,50 @@
     {
       "address": "censorship-watch.eth",
       "tags": [
-        "censorship",
-        "freespeech"
+        "ens",
+        "project",
+        "topic"
       ]
     },
     {
       "address": "reddit-screenshots.eth",
       "tags": [
-        "reddit",
-        "funny"
+        "ens",
+        "topic"
       ]
     },
     {
       "address": "weaponized-autism.eth",
       "tags": [
-        "motivation",
-        "autism"
+        "ens",
+        "random",
+        "vulgar"
       ]
     },
     {
-      "address": "monarkia.eth"
+      "address": "monarkia.eth",
+      "tags": [
+        "ens",
+        "international",
+        "topic"
+      ]
     },
     {
       "address": "mktwallet.eth",
       "tags": [
-        "marketing",
-        "business"
+        "ens",
+        "plebbit",
+        "support"
       ]
     },
     {
       "title": "Brasilandia",
       "address": "brasilandia.eth",
       "tags": [
-        "brazil"
+        "country",
+        "ens",
+        "international",
+        "topic"
       ],
       "features": [
         "sfw"
@@ -165,43 +186,97 @@
     {
       "title": "Pleb Council",
       "address": "plebcouncil.eth",
-      "tags": [],
+      "tags": [
+        "plebbit",
+        "project",
+        "support"
+      ],
       "features": []
     },
     {
-      "address": "plebpiracy.eth"
+      "address": "plebpiracy.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ]
     },
     {
-      "address": "technopleb.eth"
+      "address": "technopleb.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ]
     },
     {
-      "address": "bitcoinbrothers.eth"
+      "address": "bitcoinbrothers.eth",
+      "tags": [
+        "ens",
+        "random"
+      ]
     },
     {
-      "address": "💩posting.eth"
+      "address": "💩posting.eth",
+      "tags": [
+        "ens",
+        "random"
+      ]
     },
     {
-      "address": "plebbrothers.eth"
+      "address": "plebbrothers.eth",
+      "tags": [
+        "ens",
+        "random"
+      ]
     },
     {
       "title": "Cave to Cave Communications",
-      "address": "cave2cave.eth"
-    },
-    {
-      "address": "ripmy.eth"
-    },
-    {
-      "address": "cringeposting.eth"
-    },
-    {"title": "Ukraine", "address": "plebbit-ukraine.eth"},
-    {"address": "fatpeoplehate.eth"},
-    {
-      "address": "socomfy.sol",
-      "title": "COMFY",
+      "address": "cave2cave.eth",
       "tags": [
-        "meme",
-        "solana",
-        "blanket"
+        "ens",
+        "project"
+      ]
+    },
+    {
+      "address": "ripmy.eth",
+      "tags": [
+        "ens",
+        "random"
+      ]
+    },
+    {
+      "address": "cringeposting.eth",
+      "tags": [
+        "ens",
+        "random"
+      ]
+    },
+    {
+      "title": "Ukraine",
+      "address": "plebbit-ukraine.eth",
+      "tags": [
+        "country",
+        "ens",
+        "international",
+        "topic",
+        "violence"
+      ]
+    },
+    {
+      "address": "fatpeoplehate.eth",
+      "tags": [
+        "ens",
+        "topic",
+        "violence",
+        "vulgar"
+      ]
+    },
+    {
+      "title": "COMFY",
+      "address": "socomfy.sol",
+      "tags": [
+        "project",
+        "sns",
+        "token"
       ]
     }
   ]
