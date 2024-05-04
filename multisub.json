@@ -67,7 +67,7 @@
       ]
     },
     {
-      "title": "Reddit Death",
+      "title": "The Death of Reddit",
       "address": "redditdeath.sol",
       "tags": [
         "sns",
@@ -95,6 +95,7 @@
       ]
     },
     {
+      "title": "movies/TV/anime",
       "address": "movies-tv-anime.eth",
       "tags": [
         "ens",
@@ -105,6 +106,7 @@
       ]
     },
     {
+      "title": "plebmusic",
       "address": "plebmusic.eth",
       "tags": [
         "ens",
@@ -147,6 +149,7 @@
       ]
     },
     {
+      "title": "Weaponized Autism",
       "address": "weaponized-autism.eth",
       "tags": [
         "ens",
@@ -155,6 +158,7 @@
       ]
     },
     {
+      "title": "Monarkia",
       "address": "monarkia.eth",
       "tags": [
         "ens",
@@ -163,6 +167,7 @@
       ]
     },
     {
+      "title": "Advertising and Marketing",
       "address": "mktwallet.eth",
       "tags": [
         "ens",
@@ -194,6 +199,7 @@
       "features": []
     },
     {
+      "title": "Piracy",
       "address": "plebpiracy.eth",
       "tags": [
         "ens",
@@ -201,6 +207,7 @@
       ]
     },
     {
+      "title": "TechnoPleb",
       "address": "technopleb.eth",
       "tags": [
         "ens",
@@ -208,6 +215,7 @@
       ]
     },
     {
+      "title": "Hello Plebs",
       "address": "bitcoinbrothers.eth",
       "tags": [
         "ens",
@@ -237,6 +245,7 @@
       ]
     },
     {
+      "title": "RIP MY ETH",
       "address": "ripmy.eth",
       "tags": [
         "ens",
@@ -244,6 +253,7 @@
       ]
     },
     {
+      "title": "Cringe Posting",
       "address": "cringeposting.eth",
       "tags": [
         "ens",
@@ -262,6 +272,7 @@
       ]
     },
     {
+      "title": "FatPeopleHate",
       "address": "fatpeoplehate.eth",
       "tags": [
         "ens",
