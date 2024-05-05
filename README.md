@@ -8,20 +8,18 @@ In the future, this process will be automated by submitting proposals to a plebb
 
 ## tags
 
+- "adult" (NSFW)
 - "country": all country-centered subs
 - "ens": all .eth subs
 - "gore" (NSFW)
 - "international": all non-english subs
 - "plebbit": all plebbit-related subs
-- "porn" (NSFW)
 - "project": all subs about a specific project
 - "random": all multiple-topic or memes subs
 - "sns": all .sol subs
 - "support"
 - "token": all subs dedicated to specific tokens
 - "topic": all single-topic subs
-- "violence" (NSFW)
-- "vulgar" (NSFW)
 
 a nsfw sub must have at least one of the specific nsfw tags
 

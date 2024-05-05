@@ -82,8 +82,7 @@
       "address": "politically-incorrect.eth",
       "tags": [
         "ens",
-        "topic",
-        "vulgar"
+        "topic"
       ]
     },
     {
@@ -153,8 +152,7 @@
       "address": "weaponized-autism.eth",
       "tags": [
         "ens",
-        "random",
-        "vulgar"
+        "random"
       ]
     },
     {
@@ -268,7 +266,7 @@
         "ens",
         "international",
         "topic",
-        "violence"
+        "gore"
       ]
     },
     {
@@ -276,9 +274,7 @@
       "address": "fatpeoplehate.eth",
       "tags": [
         "ens",
-        "topic",
-        "violence",
-        "vulgar"
+        "topic"
       ]
     },
     {
