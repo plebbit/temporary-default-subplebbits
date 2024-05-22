@@ -9,6 +9,7 @@ In the future, this process will be automated by submitting proposals to a plebb
 ## tags
 
 - "adult" (NSFW)
+- "anti" (NSFW): all subs anti-something
 - "country": all country-centered subs
 - "ens": all .eth subs
 - "gore" (NSFW)
