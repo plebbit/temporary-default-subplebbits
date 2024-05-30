@@ -286,6 +286,10 @@
         "sns",
         "token"
       ]
-    }
+    },
+    {"address": "psychicgarden.eth"},
+    {"address": "diyeconomy.eth"},
+    {"address": "cryptoserious.eth"},
+    {"address": "chantdownbabylon.eth"}
   ]
 }
