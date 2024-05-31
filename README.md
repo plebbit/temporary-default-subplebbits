@@ -18,7 +18,7 @@ In the future, this process will be automated by submitting proposals to a plebb
 - "project": all subs about a specific project
 - "random": all multiple-topic or memes subs
 - "sns": all .sol subs
-- "support"
+- "support": all subs about help, requests, guides
 - "token": all subs dedicated to specific tokens
 - "topic": all single-topic subs
 
