@@ -287,9 +287,38 @@
         "token"
       ]
     },
-    {"address": "psychicgarden.eth"},
-    {"address": "diyeconomy.eth"},
-    {"address": "cryptoserious.eth"},
-    {"address": "chantdownbabylon.eth"}
+    {
+      "title": "Psychic Garden",
+      "address": "psychicgarden.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ]
+    },
+    {
+      "title": "The DIY Economy",
+      "address": "diyeconomy.eth",
+      "tags": [
+        "ens",
+        "topic",
+        "support"
+      ]
+    },
+    {
+      "title": "Crypto Serious",
+      "address": "cryptoserious.eth",
+      "tags": [
+        "ens",
+        "topic"
+      ]
+    },
+    {
+      "title": "CHANT DOWN BABYLON",
+      "address": "chantdownbabylon.eth",
+      "tags": [
+        "ens",
+        "random"
+      ]
+    }
   ]
 }
