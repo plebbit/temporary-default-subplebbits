@@ -323,7 +323,10 @@
     {
       "title": "We Read Books",
       "address": "wereadbooks.eth",
-      "tags": []
+      "tags": [
+        "ens",
+        "topic"
+      ]
     }
   ]
 }
