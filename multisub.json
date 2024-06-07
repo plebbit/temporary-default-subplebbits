@@ -319,6 +319,11 @@
         "ens",
         "random"
       ]
+    },
+    {
+      "title": "We Read Books",
+      "address": "wereadbooks.eth",
+      "tags": []
     }
   ]
 }
