@@ -327,6 +327,16 @@
         "ens",
         "topic"
       ]
+    },
+    {
+      "title": "AskPlebbit",
+      "address": "askplebbit.eth",
+      "tags": [
+        "ens",
+        "topic",
+        "plebbit",
+        "support"
+      ]
     }
   ]
 }
