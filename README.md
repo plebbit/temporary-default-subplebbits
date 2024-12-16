@@ -11,13 +11,12 @@ In the future, this process will be automated by submitting proposals to a plebb
 - "adult" (NSFW)
 - "anti" (NSFW): all subs anti-something
 - "country": all country-centered subs
-- "ens": all .eth subs
 - "gore" (NSFW)
 - "international": all non-english subs
 - "plebbit": all plebbit-related subs
+- "political": all political subs
 - "project": all subs about a specific project
 - "random": all multiple-topic or memes subs
-- "sns": all .sol subs
 - "support": all subs about help, requests, guides
 - "token": all subs dedicated to specific tokens
 - "topic": all single-topic subs
