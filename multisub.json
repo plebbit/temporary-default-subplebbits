@@ -8,7 +8,6 @@
       "title": "Plebbit Token",
       "address": "plebtoken.eth",
       "tags": [
-        "ens",
         "plebbit",
         "project",
         "support",
@@ -19,10 +18,21 @@
       ]
     },
     {
+      "title": "Plebbit Blog",
+      "address": "blog.plebbit.eth",
+      "tags": [
+        "plebbit",
+        "project",
+        "blog"
+      ],
+      "features": [
+        "sfw"
+      ]
+    },
+    {
       "title": "$PLEB Whales",
       "address": "plebwhales.eth",
       "tags": [
-        "ens",
         "plebbit",
         "random"
       ],
@@ -34,7 +44,7 @@
       "title": "Plebbit Lore",
       "address": "pleblore.eth",
       "tags": [
-        "ens",
+        
         "plebbit",
         "random"
       ],
@@ -46,7 +56,7 @@
       "title": "Plebs Helping Plebs",
       "address": "plebshelpingplebs.eth",
       "tags": [
-        "ens",
+        
         "plebbit",
         "random",
         "support"
@@ -59,7 +69,6 @@
       "title": "Decentralized Scam",
       "address": "decentralizedscam.eth",
       "tags": [
-        "ens",
         "random"
       ],
       "features": [
@@ -81,7 +90,9 @@
       "title": "/pol/",
       "address": "politically-incorrect.eth",
       "tags": [
-        "ens",
+        "anti",
+        "vulgar",
+        "political",
         "topic"
       ]
     },
@@ -89,7 +100,6 @@
       "title": "/biz/",
       "address": "business-and-finance.eth",
       "tags": [
-        "ens",
         "topic"
       ]
     },
@@ -97,7 +107,6 @@
       "title": "movies/TV/anime",
       "address": "movies-tv-anime.eth",
       "tags": [
-        "ens",
         "topic"
       ],
       "features": [
@@ -108,7 +117,6 @@
       "title": "plebmusic",
       "address": "plebmusic.eth",
       "tags": [
-        "ens",
         "topic"
       ],
       "features": [
@@ -118,14 +126,12 @@
     {
       "address": "videos-livestreams-podcasts.eth",
       "tags": [
-        "ens",
         "topic"
       ]
     },
     {
       "address": "health-nutrition-science.eth",
       "tags": [
-        "ens",
         "topic"
       ],
       "features": [
@@ -135,7 +141,6 @@
     {
       "address": "censorship-watch.eth",
       "tags": [
-        "ens",
         "project",
         "topic"
       ]
@@ -143,7 +148,6 @@
     {
       "address": "reddit-screenshots.eth",
       "tags": [
-        "ens",
         "topic"
       ]
     },
@@ -151,7 +155,7 @@
       "title": "Weaponized Autism",
       "address": "weaponized-autism.eth",
       "tags": [
-        "ens",
+        
         "random"
       ]
     },
@@ -159,7 +163,6 @@
       "title": "Monarkia",
       "address": "monarkia.eth",
       "tags": [
-        "ens",
         "international",
         "topic"
       ]
@@ -168,7 +171,6 @@
       "title": "Advertising and Marketing",
       "address": "mktwallet.eth",
       "tags": [
-        "ens",
         "plebbit",
         "support"
       ]
@@ -178,7 +180,6 @@
       "address": "brasilandia.eth",
       "tags": [
         "country",
-        "ens",
         "international",
         "topic"
       ],
@@ -200,7 +201,6 @@
       "title": "Piracy",
       "address": "plebpiracy.eth",
       "tags": [
-        "ens",
         "topic"
       ]
     },
@@ -208,7 +208,6 @@
       "title": "TechnoPleb",
       "address": "technopleb.eth",
       "tags": [
-        "ens",
         "topic"
       ]
     },
@@ -216,21 +215,18 @@
       "title": "Hello Plebs",
       "address": "bitcoinbrothers.eth",
       "tags": [
-        "ens",
         "random"
       ]
     },
     {
       "address": "💩posting.eth",
       "tags": [
-        "ens",
         "random"
       ]
     },
     {
       "address": "plebbrothers.eth",
       "tags": [
-        "ens",
         "random"
       ]
     },
@@ -238,7 +234,6 @@
       "title": "Cave to Cave Communications",
       "address": "cave2cave.eth",
       "tags": [
-        "ens",
         "project"
       ]
     },
@@ -246,7 +241,6 @@
       "title": "RIP MY ETH",
       "address": "ripmy.eth",
       "tags": [
-        "ens",
         "random"
       ]
     },
@@ -254,7 +248,6 @@
       "title": "Cringe Posting",
       "address": "cringeposting.eth",
       "tags": [
-        "ens",
         "random"
       ]
     },
@@ -263,7 +256,6 @@
       "address": "plebbit-ukraine.eth",
       "tags": [
         "country",
-        "ens",
         "international",
         "topic",
         "gore"
@@ -274,7 +266,6 @@
       "address": "fatpeoplehate.eth",
       "tags": [
         "anti",
-        "ens",
         "topic"
       ]
     },
@@ -291,7 +282,6 @@
       "title": "Psychic Garden",
       "address": "psychicgarden.eth",
       "tags": [
-        "ens",
         "topic"
       ]
     },
@@ -299,7 +289,6 @@
       "title": "The DIY Economy",
       "address": "diyeconomy.eth",
       "tags": [
-        "ens",
         "topic",
         "support"
       ]
@@ -308,7 +297,6 @@
       "title": "Crypto Serious",
       "address": "cryptoserious.eth",
       "tags": [
-        "ens",
         "topic"
       ]
     },
@@ -316,7 +304,6 @@
       "title": "CHANT DOWN BABYLON",
       "address": "chantdownbabylon.eth",
       "tags": [
-        "ens",
         "random"
       ]
     },
@@ -324,7 +311,6 @@
       "title": "We Read Books",
       "address": "wereadbooks.eth",
       "tags": [
-        "ens",
         "topic"
       ]
     },
@@ -332,7 +318,6 @@
       "title": "AskPlebbit",
       "address": "askplebbit.eth",
       "tags": [
-        "ens",
         "topic",
         "plebbit",
         "support"
