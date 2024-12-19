@@ -8,10 +8,10 @@ In the future, this process will be automated by submitting proposals to a plebb
 
 ## tags
 
-- "adult" (NSFW)
-- "anti" (NSFW): all subs anti-something
+- "adult" (NSFW): all subs with adult content
+- "anti" (may be considered NSFW): all subs anti-something
 - "country": all country-centered subs
-- "gore" (NSFW)
+- "gore" (NSFW): all subs with gore content
 - "international": all non-english subs
 - "plebbit": all plebbit-related subs
 - "political": all political subs
@@ -20,7 +20,10 @@ In the future, this process will be automated by submitting proposals to a plebb
 - "support": all subs about help, requests, guides
 - "token": all subs dedicated to specific tokens
 - "topic": all single-topic subs
+- "vulgar" (may be considered NSFW): all subs with vulgar content
 
-a nsfw sub must have at least one of the specific nsfw tags
+A NSFW sub must have at least one of the specific nsfw tags: "adult", "anti", "gore", "vulgar".
 
-specific topic/interest tags (like politics, news, video, music, pics, etc) may be added if enough subs share the specific topic (ie. a category is needed)
+Different clients may have different rules for what is considered NSFW.
+
+Specific topic/interest tags (like politics, news, video, music, pics, etc) may be added if enough subs share the specific topic (ie. a category is needed).
