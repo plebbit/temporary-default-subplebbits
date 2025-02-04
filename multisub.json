@@ -9,12 +9,8 @@
       "address": "plebtoken.eth",
       "tags": [
         "plebbit",
-        "project",
-        "support",
-        "token"
-      ],
-      "features": [
-        "sfw"
+        "token",
+        "crypto"
       ]
     },
     {
@@ -22,11 +18,64 @@
       "address": "blog.plebbit.eth",
       "tags": [
         "plebbit",
-        "project",
         "blog"
-      ],
-      "features": [
-        "sfw"
+      ]
+    },
+    {
+      "title": "/pol/",
+      "address": "politically-incorrect.eth",
+      "tags": [
+        "politics",
+        "anti",
+        "vulgar"
+      ]
+    },
+    {
+      "title": "/biz/",
+      "address": "business-and-finance.eth",
+      "tags": [
+        "business",
+        "finance",
+        "crypto"
+      ]
+    },
+    {
+      "title": "Piracy",
+      "address": "plebpiracy.eth",
+      "tags": [
+        "piracy",
+        "technology"
+      ]
+    },
+    {
+      "title": "TechnoPleb",
+      "address": "technopleb.eth",
+      "tags": [
+        "technology",
+        "science"
+      ]
+    },
+    {
+      "title": "movies/TV/anime",
+      "address": "movies-tv-anime.eth",
+      "tags": [
+        "movies",
+        "tv",
+        "anime"
+      ]
+    },
+    {
+      "title": "plebmusic",
+      "address": "plebmusic.eth",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "title": "Weaponized Autism",
+      "address": "weaponized-autism.eth",
+      "tags": [
+        "random"
       ]
     },
     {
@@ -34,137 +83,100 @@
       "address": "plebwhales.eth",
       "tags": [
         "plebbit",
+        "token",
         "random"
-      ],
-      "features": [
-        "sfw"
       ]
     },
     {
       "title": "Plebbit Lore",
       "address": "pleblore.eth",
       "tags": [
-        
         "plebbit",
         "random"
-      ],
-      "features": [
-        "sfw"
-      ]
-    },
-    {
-      "title": "Plebs Helping Plebs",
-      "address": "plebshelpingplebs.eth",
-      "tags": [
-        
-        "plebbit",
-        "random",
-        "support"
-      ],
-      "features": [
-        "sfw"
-      ]
-    },
-    {
-      "title": "Decentralized Scam",
-      "address": "decentralizedscam.eth",
-      "tags": [
-        "random"
-      ],
-      "features": [
-        "sfw"
       ]
     },
     {
       "title": "The Death of Reddit",
       "address": "redditdeath.sol",
       "tags": [
-        "sns",
-        "topic"
-      ],
-      "features": [
-        "sfw"
+        "reddit"
       ]
     },
     {
-      "title": "/pol/",
-      "address": "politically-incorrect.eth",
+      "title": "FatPeopleHate",
+      "address": "fatpeoplehate.eth",
       "tags": [
-        "anti",
-        "vulgar",
-        "political",
-        "topic"
-      ]
-    },
-    {
-      "title": "/biz/",
-      "address": "business-and-finance.eth",
-      "tags": [
-        "topic"
-      ]
-    },
-    {
-      "title": "movies/TV/anime",
-      "address": "movies-tv-anime.eth",
-      "tags": [
-        "topic"
-      ],
-      "features": [
-        "sfw"
-      ]
-    },
-    {
-      "title": "plebmusic",
-      "address": "plebmusic.eth",
-      "tags": [
-        "topic"
-      ],
-      "features": [
-        "sfw"
+        "anti"
       ]
     },
     {
       "address": "videos-livestreams-podcasts.eth",
       "tags": [
-        "topic"
+        "video",
+        "livestream",
+        "podcast"
       ]
     },
     {
       "address": "health-nutrition-science.eth",
       "tags": [
-        "topic"
-      ],
-      "features": [
-        "sfw"
+        "health",
+        "nutrition",
+        "science"
       ]
     },
     {
       "address": "censorship-watch.eth",
       "tags": [
-        "project",
-        "topic"
+        "automated",
+        "censorship"
       ]
     },
     {
       "address": "reddit-screenshots.eth",
       "tags": [
-        "topic"
+        "reddit",
+        "funny"
       ]
     },
     {
-      "title": "Weaponized Autism",
-      "address": "weaponized-autism.eth",
+      "title": "AskPlebbit",
+      "address": "askplebbit.eth",
       "tags": [
-        
-        "random"
+        "plebbit",
+        "question"
+      ]
+    },
+    {
+      "title": "We Read Books",
+      "address": "wereadbooks.eth",
+      "tags": [
+        "books"
+      ]
+    },
+    {
+      "title": "Ukraine",
+      "address": "plebbit-ukraine.eth",
+      "tags": [
+        "country",
+        "international",
+        "gore",
+        "war"
+      ]
+    },
+    {
+      "title": "Cringe Posting",
+      "address": "cringeposting.eth",
+      "tags": [
+        "random",
+        "funny"
       ]
     },
     {
       "title": "Monarkia",
       "address": "monarkia.eth",
       "tags": [
-        "international",
-        "topic"
+        "international"
       ]
     },
     {
@@ -180,11 +192,21 @@
       "address": "brasilandia.eth",
       "tags": [
         "country",
-        "international",
-        "topic"
-      ],
-      "features": [
-        "sfw"
+        "international"
+      ]
+    },
+    {
+      "title": "RIP MY ETH",
+      "address": "ripmy.eth",
+      "tags": [
+        "random"
+      ]
+    },
+    {
+      "title": "Crypto Serious",
+      "address": "cryptoserious.eth",
+      "tags": [
+        "crypto"
       ]
     },
     {
@@ -192,23 +214,28 @@
       "address": "plebcouncil.eth",
       "tags": [
         "plebbit",
-        "project",
-        "support"
-      ],
-      "features": []
-    },
-    {
-      "title": "Piracy",
-      "address": "plebpiracy.eth",
-      "tags": [
-        "topic"
+        "random"
       ]
     },
     {
-      "title": "TechnoPleb",
-      "address": "technopleb.eth",
+      "title": "The DIY Economy",
+      "address": "diyeconomy.eth",
       "tags": [
-        "topic"
+        "random"
+      ]
+    },
+    {
+      "title": "CHANT DOWN BABYLON",
+      "address": "chantdownbabylon.eth",
+      "tags": [
+        "random"
+      ]
+    },
+    {
+      "title": "Cave to Cave Communications",
+      "address": "cave2cave.eth",
+      "tags": [
+        "podcast"
       ]
     },
     {
@@ -231,96 +258,36 @@
       ]
     },
     {
-      "title": "Cave to Cave Communications",
-      "address": "cave2cave.eth",
-      "tags": [
-        "project"
-      ]
-    },
-    {
-      "title": "RIP MY ETH",
-      "address": "ripmy.eth",
-      "tags": [
-        "random"
-      ]
-    },
-    {
-      "title": "Cringe Posting",
-      "address": "cringeposting.eth",
-      "tags": [
-        "random"
-      ]
-    },
-    {
-      "title": "Ukraine",
-      "address": "plebbit-ukraine.eth",
-      "tags": [
-        "country",
-        "international",
-        "topic",
-        "gore"
-      ]
-    },
-    {
-      "title": "FatPeopleHate",
-      "address": "fatpeoplehate.eth",
-      "tags": [
-        "anti",
-        "topic"
-      ]
-    },
-    {
       "title": "COMFY",
       "address": "socomfy.sol",
       "tags": [
-        "project",
-        "sns",
-        "token"
+        "token",
+        "crypto",
+        "community"
       ]
     },
     {
       "title": "Psychic Garden",
       "address": "psychicgarden.eth",
       "tags": [
-        "topic"
+        "hobby",
+        "blog"
       ]
     },
     {
-      "title": "The DIY Economy",
-      "address": "diyeconomy.eth",
+      "title": "Plebs Helping Plebs",
+      "address": "plebshelpingplebs.eth",
       "tags": [
-        "topic",
-        "support"
-      ]
-    },
-    {
-      "title": "Crypto Serious",
-      "address": "cryptoserious.eth",
-      "tags": [
-        "topic"
-      ]
-    },
-    {
-      "title": "CHANT DOWN BABYLON",
-      "address": "chantdownbabylon.eth",
-      "tags": [
+        "plebbit",
         "random"
       ]
     },
     {
-      "title": "We Read Books",
-      "address": "wereadbooks.eth",
+      "title": "Decentralized Scam",
+      "address": "decentralizedscam.eth",
       "tags": [
-        "topic"
-      ]
-    },
-    {
-      "title": "AskPlebbit",
-      "address": "askplebbit.eth",
-      "tags": [
-        "topic",
         "plebbit",
-        "support"
+        "random"
       ]
     }
   ]
