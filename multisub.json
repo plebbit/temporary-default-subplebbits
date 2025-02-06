@@ -56,6 +56,14 @@
       ]
     },
     {
+      "address": "health-nutrition-science.eth",
+      "tags": [
+        "health",
+        "nutrition",
+        "science"
+      ]
+    },
+    {
       "title": "movies/TV/anime",
       "address": "movies-tv-anime.eth",
       "tags": [
@@ -69,6 +77,14 @@
       "address": "plebmusic.eth",
       "tags": [
         "music"
+      ]
+    },
+    {
+      "address": "videos-livestreams-podcasts.eth",
+      "tags": [
+        "video",
+        "livestream",
+        "podcast"
       ]
     },
     {
@@ -110,19 +126,10 @@
       ]
     },
     {
-      "address": "videos-livestreams-podcasts.eth",
+      "address": "reddit-screenshots.eth",
       "tags": [
-        "video",
-        "livestream",
-        "podcast"
-      ]
-    },
-    {
-      "address": "health-nutrition-science.eth",
-      "tags": [
-        "health",
-        "nutrition",
-        "science"
+        "reddit",
+        "funny"
       ]
     },
     {
@@ -130,13 +137,6 @@
       "tags": [
         "automated",
         "censorship"
-      ]
-    },
-    {
-      "address": "reddit-screenshots.eth",
-      "tags": [
-        "reddit",
-        "funny"
       ]
     },
     {
