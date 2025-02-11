@@ -11,7 +11,8 @@
         "plebbit",
         "token",
         "crypto"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "title": "Plebbit Blog",
@@ -19,7 +20,8 @@
       "tags": [
         "plebbit",
         "blog"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "title": "/pol/",
@@ -28,7 +30,8 @@
         "politics",
         "anti",
         "vulgar"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "/biz/",
@@ -37,7 +40,8 @@
         "business",
         "finance",
         "crypto"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "title": "Piracy",
@@ -45,7 +49,8 @@
       "tags": [
         "piracy",
         "technology"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "title": "TechnoPleb",
@@ -53,7 +58,8 @@
       "tags": [
         "technology",
         "science"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "address": "health-nutrition-science.eth",
@@ -61,7 +67,8 @@
         "health",
         "nutrition",
         "science"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "title": "movies/TV/anime",
@@ -70,14 +77,16 @@
         "movies",
         "tv",
         "anime"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "title": "plebmusic",
       "address": "plebmusic.eth",
       "tags": [
         "music"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "address": "videos-livestreams-podcasts.eth",
@@ -85,14 +94,16 @@
         "video",
         "livestream",
         "podcast"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "title": "Weaponized Autism",
       "address": "weaponized-autism.eth",
       "tags": [
         "random"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "title": "$PLEB Whales",
@@ -101,7 +112,8 @@
         "plebbit",
         "token",
         "community"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "title": "Plebbit Lore",
@@ -110,7 +122,8 @@
         "plebbit",
         "random",
         "community"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "title": "The Death of Reddit",
@@ -118,7 +131,8 @@
       "tags": [
         "reddit",
         "plebbit"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "title": "FatPeopleHate",
@@ -126,21 +140,24 @@
       "tags": [
         "anti",
         "vulgar"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "address": "reddit-screenshots.eth",
       "tags": [
         "reddit",
         "funny"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "address": "censorship-watch.eth",
       "tags": [
         "automated",
         "censorship"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "title": "AskPlebbit",
@@ -148,14 +165,16 @@
       "tags": [
         "plebbit",
         "Q&A"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "title": "We Read Books",
       "address": "wereadbooks.eth",
       "tags": [
         "books"
-      ]
+      ],
+      "seeditAutoSubscribe": true
     },
     {
       "title": "Ukraine",
@@ -165,7 +184,8 @@
         "ukraine",
         "gore",
         "war"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "Psychic Garden",
@@ -174,7 +194,8 @@
         "drugs",
         "blog",
         "new age"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "Cave to Cave Communications",
@@ -182,7 +203,8 @@
       "tags": [
         "new age",
         "drugs"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "Monarkia",
@@ -190,7 +212,8 @@
       "tags": [
         "country",
         "brazil"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "Advertising and Marketing",
@@ -199,7 +222,8 @@
         "plebbit",
         "advertising",
         "marketing"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "Brasilandia",
@@ -207,7 +231,8 @@
       "tags": [
         "country",
         "brazil"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "RIP MY ETH",
@@ -215,14 +240,16 @@
       "tags": [
         "random",
         "funny"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "Crypto Serious",
       "address": "cryptoserious.eth",
       "tags": [
         "crypto"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "Pleb Council",
@@ -231,7 +258,8 @@
         "plebbit",
         "random",
         "community"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "The DIY Economy",
@@ -239,7 +267,8 @@
       "tags": [
         "new age",
         "random"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "CHANT DOWN BABYLON",
@@ -247,7 +276,8 @@
       "tags": [
         "new age",
         "random"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "Cringe Posting",
@@ -255,26 +285,30 @@
       "tags": [
         "random",
         "funny"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "Hello Plebs",
       "address": "bitcoinbrothers.eth",
       "tags": [
         "random"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "address": "💩posting.eth",
       "tags": [
         "random"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "address": "plebbrothers.eth",
       "tags": [
         "random"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "COMFY",
@@ -283,7 +317,8 @@
         "token",
         "crypto",
         "community"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "Plebs Helping Plebs",
@@ -291,7 +326,8 @@
       "tags": [
         "plebbit",
         "random"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     },
     {
       "title": "Decentralized Scam",
@@ -299,7 +335,8 @@
       "tags": [
         "plebbit",
         "random"
-      ]
+      ],
+      "seeditAutoSubscribe": false
     }
   ]
 }
