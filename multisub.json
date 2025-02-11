@@ -100,7 +100,7 @@
       "tags": [
         "plebbit",
         "token",
-        "random"
+        "community"
       ]
     },
     {
@@ -108,21 +108,24 @@
       "address": "pleblore.eth",
       "tags": [
         "plebbit",
-        "random"
+        "random",
+        "community"
       ]
     },
     {
       "title": "The Death of Reddit",
       "address": "redditdeath.sol",
       "tags": [
-        "reddit"
+        "reddit",
+        "plebbit"
       ]
     },
     {
       "title": "FatPeopleHate",
       "address": "fatpeoplehate.eth",
       "tags": [
-        "anti"
+        "anti",
+        "vulgar"
       ]
     },
     {
@@ -144,7 +147,7 @@
       "address": "askplebbit.eth",
       "tags": [
         "plebbit",
-        "question"
+        "Q&A"
       ]
     },
     {
@@ -159,24 +162,34 @@
       "address": "plebbit-ukraine.eth",
       "tags": [
         "country",
-        "international",
+        "ukraine",
         "gore",
         "war"
       ]
     },
     {
-      "title": "Cringe Posting",
-      "address": "cringeposting.eth",
+      "title": "Psychic Garden",
+      "address": "psychicgarden.eth",
       "tags": [
-        "random",
-        "funny"
+        "drugs",
+        "blog",
+        "new age"
+      ]
+    },
+    {
+      "title": "Cave to Cave Communications",
+      "address": "cave2cave.eth",
+      "tags": [
+        "new age",
+        "drugs"
       ]
     },
     {
       "title": "Monarkia",
       "address": "monarkia.eth",
       "tags": [
-        "international"
+        "country",
+        "brazil"
       ]
     },
     {
@@ -184,7 +197,8 @@
       "address": "mktwallet.eth",
       "tags": [
         "plebbit",
-        "support"
+        "advertising",
+        "marketing"
       ]
     },
     {
@@ -192,14 +206,15 @@
       "address": "brasilandia.eth",
       "tags": [
         "country",
-        "international"
+        "brazil"
       ]
     },
     {
       "title": "RIP MY ETH",
       "address": "ripmy.eth",
       "tags": [
-        "random"
+        "random",
+        "funny"
       ]
     },
     {
@@ -214,13 +229,15 @@
       "address": "plebcouncil.eth",
       "tags": [
         "plebbit",
-        "random"
+        "random",
+        "community"
       ]
     },
     {
       "title": "The DIY Economy",
       "address": "diyeconomy.eth",
       "tags": [
+        "new age",
         "random"
       ]
     },
@@ -228,14 +245,16 @@
       "title": "CHANT DOWN BABYLON",
       "address": "chantdownbabylon.eth",
       "tags": [
+        "new age",
         "random"
       ]
     },
     {
-      "title": "Cave to Cave Communications",
-      "address": "cave2cave.eth",
+      "title": "Cringe Posting",
+      "address": "cringeposting.eth",
       "tags": [
-        "podcast"
+        "random",
+        "funny"
       ]
     },
     {
@@ -264,14 +283,6 @@
         "token",
         "crypto",
         "community"
-      ]
-    },
-    {
-      "title": "Psychic Garden",
-      "address": "psychicgarden.eth",
-      "tags": [
-        "hobby",
-        "blog"
       ]
     },
     {
