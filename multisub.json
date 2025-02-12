@@ -12,7 +12,8 @@
         "token",
         "crypto"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true
     },
     {
       "title": "Plebbit Blog",
@@ -21,7 +22,8 @@
         "plebbit",
         "blog"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true
     },
     {
       "title": "/pol/",
@@ -31,7 +33,8 @@
         "anti",
         "vulgar"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": true
     },
     {
       "title": "/biz/",
@@ -41,7 +44,8 @@
         "finance",
         "crypto"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true
     },
     {
       "title": "Piracy",
@@ -50,7 +54,8 @@
         "piracy",
         "technology"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true
     },
     {
       "title": "TechnoPleb",
@@ -59,7 +64,8 @@
         "technology",
         "science"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true
     },
     {
       "address": "health-nutrition-science.eth",
@@ -68,7 +74,8 @@
         "nutrition",
         "science"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true
     },
     {
       "title": "movies/TV/anime",
@@ -78,7 +85,8 @@
         "tv",
         "anime"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true
     },
     {
       "title": "plebmusic",
@@ -86,7 +94,8 @@
       "tags": [
         "music"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true
     },
     {
       "address": "videos-livestreams-podcasts.eth",
@@ -95,7 +104,8 @@
         "livestream",
         "podcast"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true
     },
     {
       "title": "Weaponized Autism",
@@ -103,7 +113,8 @@
       "tags": [
         "random"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true
     },
     {
       "title": "$PLEB Whales",
@@ -113,7 +124,8 @@
         "token",
         "community"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true
     },
     {
       "title": "Plebbit Lore",
@@ -123,7 +135,8 @@
         "random",
         "community"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true
     },
     {
       "title": "The Death of Reddit",
@@ -132,7 +145,8 @@
         "reddit",
         "plebbit"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true
     },
     {
       "title": "FatPeopleHate",
@@ -141,7 +155,8 @@
         "anti",
         "vulgar"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": true
     },
     {
       "address": "reddit-screenshots.eth",
@@ -149,7 +164,8 @@
         "reddit",
         "funny"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": false
     },
     {
       "address": "censorship-watch.eth",
@@ -157,7 +173,8 @@
         "automated",
         "censorship"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "AskPlebbit",
@@ -166,7 +183,8 @@
         "plebbit",
         "Q&A"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "We Read Books",
@@ -174,7 +192,8 @@
       "tags": [
         "books"
       ],
-      "seeditAutoSubscribe": true
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "Ukraine",
@@ -185,7 +204,8 @@
         "gore",
         "war"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "Psychic Garden",
@@ -195,7 +215,8 @@
         "blog",
         "new age"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "Cave to Cave Communications",
@@ -204,7 +225,8 @@
         "new age",
         "drugs"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "Monarkia",
@@ -213,7 +235,8 @@
         "country",
         "brazil"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "Advertising and Marketing",
@@ -223,7 +246,8 @@
         "advertising",
         "marketing"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "Brasilandia",
@@ -232,7 +256,8 @@
         "country",
         "brazil"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "RIP MY ETH",
@@ -241,7 +266,8 @@
         "random",
         "funny"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "Crypto Serious",
@@ -249,7 +275,8 @@
       "tags": [
         "crypto"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "Pleb Council",
@@ -259,7 +286,8 @@
         "random",
         "community"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "The DIY Economy",
@@ -268,7 +296,8 @@
         "new age",
         "random"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "CHANT DOWN BABYLON",
@@ -277,7 +306,8 @@
         "new age",
         "random"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "Cringe Posting",
@@ -286,7 +316,8 @@
         "random",
         "funny"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "Hello Plebs",
@@ -294,21 +325,24 @@
       "tags": [
         "random"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "address": "💩posting.eth",
       "tags": [
         "random"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "address": "plebbrothers.eth",
       "tags": [
         "random"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "COMFY",
@@ -318,7 +352,8 @@
         "crypto",
         "community"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "Plebs Helping Plebs",
@@ -327,7 +362,8 @@
         "plebbit",
         "random"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     },
     {
       "title": "Decentralized Scam",
@@ -336,7 +372,8 @@
         "plebbit",
         "random"
       ],
-      "seeditAutoSubscribe": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
     }
   ]
 }
