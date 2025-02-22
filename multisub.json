@@ -16,7 +16,7 @@
       "plebchanAutoSubscribe": true
     },
     {
-      "title": "Plebbit Blog",
+      "title": "Blog for Plebbit Development",
       "address": "blog.plebbit.eth",
       "tags": [
         "plebbit",
@@ -89,7 +89,7 @@
       "plebchanAutoSubscribe": true
     },
     {
-      "title": "plebmusic",
+      "title": "Music",
       "address": "plebmusic.eth",
       "tags": [
         "music"
@@ -196,18 +196,6 @@
       "plebchanAutoSubscribe": false
     },
     {
-      "title": "Ukraine",
-      "address": "plebbit-ukraine.eth",
-      "tags": [
-        "country",
-        "ukraine",
-        "gore",
-        "war"
-      ],
-      "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
-    },
-    {
       "title": "Psychic Garden",
       "address": "psychicgarden.eth",
       "tags": [
@@ -224,47 +212,6 @@
       "tags": [
         "new age",
         "drugs"
-      ],
-      "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
-    },
-    {
-      "title": "Monarkia",
-      "address": "monarkia.eth",
-      "tags": [
-        "country",
-        "brazil"
-      ],
-      "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
-    },
-    {
-      "title": "Advertising and Marketing",
-      "address": "mktwallet.eth",
-      "tags": [
-        "plebbit",
-        "advertising",
-        "marketing"
-      ],
-      "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
-    },
-    {
-      "title": "Brasilandia",
-      "address": "brasilandia.eth",
-      "tags": [
-        "country",
-        "brazil"
-      ],
-      "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
-    },
-    {
-      "title": "RIP MY ETH",
-      "address": "ripmy.eth",
-      "tags": [
-        "random",
-        "funny"
       ],
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false
@@ -305,6 +252,60 @@
       "tags": [
         "new age",
         "random"
+      ],
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
+    },
+    {
+      "title": "Ukraine",
+      "address": "plebbit-ukraine.eth",
+      "tags": [
+        "country",
+        "ukraine",
+        "gore",
+        "war"
+      ],
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
+    },
+    {
+      "title": "Monarkia",
+      "address": "monarkia.eth",
+      "tags": [
+        "community",
+        "country",
+        "brazil"
+      ],
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
+    },
+    {
+      "title": "Advertising and Marketing",
+      "address": "mktwallet.eth",
+      "tags": [
+        "plebbit",
+        "advertising",
+        "marketing"
+      ],
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
+    },
+    {
+      "title": "Brasilandia",
+      "address": "brasilandia.eth",
+      "tags": [
+        "country",
+        "brazil"
+      ],
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false
+    },
+    {
+      "title": "RIP MY ETH",
+      "address": "ripmy.eth",
+      "tags": [
+        "random",
+        "funny"
       ],
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false
