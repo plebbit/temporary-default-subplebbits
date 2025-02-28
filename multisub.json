@@ -13,7 +13,8 @@
         "crypto"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "title": "Blog for Plebbit Development",
@@ -23,7 +24,8 @@
         "blog"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "title": "/pol/",
@@ -34,7 +36,8 @@
         "vulgar"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "title": "/biz/",
@@ -45,7 +48,8 @@
         "crypto"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "title": "Piracy",
@@ -55,7 +59,8 @@
         "technology"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "title": "TechnoPleb",
@@ -65,7 +70,8 @@
         "science"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "address": "health-nutrition-science.eth",
@@ -75,7 +81,8 @@
         "science"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "title": "movies/TV/anime",
@@ -86,7 +93,8 @@
         "anime"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "title": "Music",
@@ -95,7 +103,8 @@
         "music"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "address": "videos-livestreams-podcasts.eth",
@@ -105,7 +114,8 @@
         "podcast"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "title": "Weaponized Autism",
@@ -114,7 +124,8 @@
         "random"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "title": "$PLEB Whales",
@@ -125,7 +136,8 @@
         "community"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "title": "Plebbit Lore",
@@ -136,7 +148,8 @@
         "community"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "title": "The Death of Reddit",
@@ -146,7 +159,8 @@
         "plebbit"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "title": "FatPeopleHate",
@@ -156,7 +170,8 @@
         "vulgar"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": true
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     },
     {
       "address": "reddit-screenshots.eth",
@@ -165,7 +180,8 @@
         "funny"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": false
     },
     {
       "address": "censorship-watch.eth",
@@ -174,7 +190,8 @@
         "censorship"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": false
     },
     {
       "title": "AskPlebbit",
@@ -184,7 +201,8 @@
         "Q&A"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "We Read Books",
@@ -193,7 +211,8 @@
         "books"
       ],
       "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "Psychic Garden",
@@ -204,7 +223,8 @@
         "new-age"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "Cave to Cave Communications",
@@ -214,7 +234,8 @@
         "drugs"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "Crypto Serious",
@@ -223,7 +244,8 @@
         "crypto"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "Pleb Council",
@@ -234,7 +256,8 @@
         "community"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "The DIY Economy",
@@ -244,7 +267,8 @@
         "random"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "CHANT DOWN BABYLON",
@@ -254,7 +278,8 @@
         "random"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "Ukraine",
@@ -266,7 +291,8 @@
         "war"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "Monarkia",
@@ -277,7 +303,8 @@
         "brazil"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "Advertising and Marketing",
@@ -288,7 +315,8 @@
         "marketing"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "Brasilandia",
@@ -298,7 +326,8 @@
         "brazil"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "RIP MY ETH",
@@ -308,7 +337,8 @@
         "funny"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "Cringe Posting",
@@ -318,7 +348,8 @@
         "funny"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "Hello Plebs",
@@ -327,7 +358,8 @@
         "random"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "address": "💩posting.eth",
@@ -335,7 +367,8 @@
         "random"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "address": "plebbrothers.eth",
@@ -343,7 +376,8 @@
         "random"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "COMFY",
@@ -354,7 +388,8 @@
         "community"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "Plebs Helping Plebs",
@@ -364,7 +399,8 @@
         "random"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "Decentralized Scam",
@@ -374,7 +410,8 @@
         "random"
       ],
       "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     }
   ]
 }
