@@ -43,11 +43,10 @@
       "title": "/biz/",
       "address": "business-and-finance.eth",
       "tags": [
-        "business",
-        "finance",
-        "crypto"
+        "crypto",
+        "vulgar"
       ],
-      "seeditAutoSubscribe": true,
+      "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": true,
       "lowUptime": false
     },
