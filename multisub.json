@@ -135,9 +135,9 @@
         "programming",
         "random"
       ],
-      "seeditAutoSubscribe": true,
-      "plebchanAutoSubscribe": true,
-      "lowUptime": false
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false,
+      "lowUptime": true
     },
     {
       "title": "$PLEB Whales",
