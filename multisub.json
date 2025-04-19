@@ -17,6 +17,17 @@
       "lowUptime": false
     },
     {
+      "title": "Plebbit DAO",
+      "address": "vote.plebbit.eth",
+      "tags": [
+        "plebbit",
+        "dao"
+      ],
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
+    },
+    {
       "title": "Blog for Plebbit Development",
       "address": "blog.plebbit.eth",
       "tags": [
