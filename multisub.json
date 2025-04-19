@@ -55,7 +55,8 @@
       "address": "business-and-finance.eth",
       "tags": [
         "crypto",
-        "vulgar"
+        "vulgar",
+        "business"
       ],
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": true,
@@ -65,8 +66,8 @@
       "title": "Piracy",
       "address": "plebpiracy.eth",
       "tags": [
-        "piracy",
-        "technology"
+        "tech",
+        "media"
       ],
       "seeditAutoSubscribe": true,
       "plebchanAutoSubscribe": true,
@@ -76,7 +77,7 @@
       "title": "TechnoPleb",
       "address": "technopleb.eth",
       "tags": [
-        "technology",
+        "tech",
         "science"
       ],
       "seeditAutoSubscribe": true,
@@ -87,7 +88,6 @@
       "address": "health-nutrition-science.eth",
       "tags": [
         "health",
-        "nutrition",
         "science"
       ],
       "seeditAutoSubscribe": true,
@@ -98,9 +98,7 @@
       "title": "movies/TV/anime",
       "address": "movies-tv-anime.eth",
       "tags": [
-        "movies",
-        "tv",
-        "anime"
+        "media"
       ],
       "seeditAutoSubscribe": true,
       "plebchanAutoSubscribe": true,
@@ -110,7 +108,7 @@
       "title": "Music",
       "address": "plebmusic.eth",
       "tags": [
-        "music"
+        "media"
       ],
       "seeditAutoSubscribe": true,
       "plebchanAutoSubscribe": true,
@@ -119,9 +117,9 @@
     {
       "address": "videos-livestreams-podcasts.eth",
       "tags": [
-        "video",
-        "livestream",
-        "podcast"
+        "media",
+        "tech",
+        "gaming"
       ],
       "seeditAutoSubscribe": true,
       "plebchanAutoSubscribe": true,
@@ -131,7 +129,8 @@
       "title": "Weaponized Autism",
       "address": "weaponized-autism.eth",
       "tags": [
-        "random"
+        "random",
+        "meme"
       ],
       "seeditAutoSubscribe": true,
       "plebchanAutoSubscribe": true,
@@ -142,7 +141,7 @@
       "address": "vzgworld.sol",
       "tags": [
         "gaming",
-        "programming",
+        "tech",
         "random"
       ],
       "seeditAutoSubscribe": false,
@@ -166,8 +165,8 @@
       "address": "pleblore.eth",
       "tags": [
         "plebbit",
-        "random",
-        "community"
+        "community",
+        "random"
       ],
       "seeditAutoSubscribe": true,
       "plebchanAutoSubscribe": true,
@@ -177,8 +176,9 @@
       "title": "The Death of Reddit",
       "address": "redditdeath.sol",
       "tags": [
+        "plebbit",
         "reddit",
-        "plebbit"
+        "censorship"
       ],
       "seeditAutoSubscribe": true,
       "plebchanAutoSubscribe": true,
@@ -199,7 +199,7 @@
       "address": "reddit-screenshots.eth",
       "tags": [
         "reddit",
-        "funny"
+        "meme"
       ],
       "seeditAutoSubscribe": true,
       "plebchanAutoSubscribe": false,
@@ -208,8 +208,8 @@
     {
       "address": "censorship-watch.eth",
       "tags": [
-        "automated",
-        "censorship"
+        "censorship",
+        "politics"
       ],
       "seeditAutoSubscribe": true,
       "plebchanAutoSubscribe": false,
@@ -220,7 +220,7 @@
       "address": "askplebbit.eth",
       "tags": [
         "plebbit",
-        "Q&A"
+        "community"
       ],
       "seeditAutoSubscribe": true,
       "plebchanAutoSubscribe": false,
@@ -230,7 +230,8 @@
       "title": "We Read Books",
       "address": "wereadbooks.eth",
       "tags": [
-        "books"
+        "media",
+        "community"
       ],
       "seeditAutoSubscribe": true,
       "plebchanAutoSubscribe": false,
@@ -240,9 +241,9 @@
       "title": "Psychic Garden",
       "address": "psychicgarden.eth",
       "tags": [
+        "new-age",
         "drugs",
-        "blog",
-        "new-age"
+        "blog"
       ],
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false,
@@ -253,7 +254,8 @@
       "address": "cave2cave.eth",
       "tags": [
         "new-age",
-        "drugs"
+        "drugs",
+        "health"
       ],
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false,
@@ -263,7 +265,8 @@
       "title": "Crypto Serious",
       "address": "cryptoserious.eth",
       "tags": [
-        "crypto"
+        "crypto",
+        "token"
       ],
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false,
@@ -274,7 +277,7 @@
       "address": "plebcouncil.eth",
       "tags": [
         "plebbit",
-        "random",
+        "dao",
         "community"
       ],
       "seeditAutoSubscribe": false,
@@ -286,7 +289,7 @@
       "address": "diyeconomy.eth",
       "tags": [
         "new-age",
-        "random"
+        "community"
       ],
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false,
@@ -297,7 +300,7 @@
       "address": "chantdownbabylon.eth",
       "tags": [
         "new-age",
-        "random"
+        "community"
       ],
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false,
@@ -307,10 +310,9 @@
       "title": "Ukraine",
       "address": "plebbit-ukraine.eth",
       "tags": [
-        "country",
-        "ukraine",
         "gore",
-        "war"
+        "country",
+        "politics"
       ],
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false,
@@ -320,7 +322,7 @@
       "title": "Monarkia",
       "address": "monarkia.eth",
       "tags": [
-        "community",
+        "politics",
         "country",
         "brazil"
       ],
@@ -333,8 +335,7 @@
       "address": "mktwallet.eth",
       "tags": [
         "plebbit",
-        "advertising",
-        "marketing"
+        "business"
       ],
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false,
@@ -345,7 +346,8 @@
       "address": "brasilandia.eth",
       "tags": [
         "country",
-        "brazil"
+        "brazil",
+        "community"
       ],
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false,
@@ -355,8 +357,8 @@
       "title": "RIP MY ETH",
       "address": "ripmy.eth",
       "tags": [
-        "random",
-        "funny"
+        "meme",
+        "crypto"
       ],
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false,
@@ -366,8 +368,8 @@
       "title": "Cringe Posting",
       "address": "cringeposting.eth",
       "tags": [
-        "random",
-        "funny"
+        "meme",
+        "random"
       ],
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false,
@@ -377,6 +379,7 @@
       "title": "Hello Plebs",
       "address": "bitcoinbrothers.eth",
       "tags": [
+        "community",
         "random"
       ],
       "seeditAutoSubscribe": false,
@@ -386,6 +389,7 @@
     {
       "address": "💩posting.eth",
       "tags": [
+        "meme",
         "random"
       ],
       "seeditAutoSubscribe": false,
@@ -395,6 +399,7 @@
     {
       "address": "plebbrothers.eth",
       "tags": [
+        "community",
         "random"
       ],
       "seeditAutoSubscribe": false,
@@ -418,7 +423,7 @@
       "address": "plebshelpingplebs.eth",
       "tags": [
         "plebbit",
-        "random"
+        "community"
       ],
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false,
@@ -429,6 +434,7 @@
       "address": "decentralizedscam.eth",
       "tags": [
         "plebbit",
+        "crypto",
         "random"
       ],
       "seeditAutoSubscribe": false,
