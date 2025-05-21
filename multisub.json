@@ -354,17 +354,6 @@
       "lowUptime": true
     },
     {
-      "title": "RIP MY ETH",
-      "address": "ripmy.eth",
-      "tags": [
-        "meme",
-        "crypto"
-      ],
-      "seeditAutoSubscribe": false,
-      "plebchanAutoSubscribe": false,
-      "lowUptime": true
-    },
-    {
       "title": "Cringe Posting",
       "address": "cringeposting.eth",
       "tags": [
