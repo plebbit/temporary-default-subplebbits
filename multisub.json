@@ -67,7 +67,8 @@
       "address": "plebpiracy.eth",
       "tags": [
         "tech",
-        "media"
+        "media",
+        "piracy"
       ],
       "seeditAutoSubscribe": true,
       "plebchanAutoSubscribe": true,
@@ -429,6 +430,18 @@
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false,
       "lowUptime": true
+    },
+    {
+      "title": "IPFS-Kulturarchiv",
+      "address": "12D3KooWAfeKJ5n2Zrmuezkce5dudxrXxm9iA3FeGeHQk6SN2m6Y",
+      "tags": [
+        "media",
+        "piracy",
+        "country"
+      ],
+      "seeditAutoSubscribe": false,
+      "plebchanAutoSubscribe": false,
+      "lowUptime": false
     }
   ]
 }
