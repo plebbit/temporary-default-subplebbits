@@ -442,6 +442,6 @@
       "seeditAutoSubscribe": true,
       "plebchanAutoSubscribe": true,
       "lowUptime": false
-    },
+    }
   ]
 }
