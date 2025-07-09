@@ -430,6 +430,18 @@
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false,
       "lowUptime": true
-    }
+    },
+    {
+      "title": "Funny and Cute",
+      "address": "funny-and-cute.eth",
+      "tags": [
+        "cute",
+        "funny",
+        "cats"
+      ],
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
+    },
   ]
 }
