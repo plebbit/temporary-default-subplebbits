@@ -430,6 +430,14 @@
       "seeditAutoSubscribe": false,
       "plebchanAutoSubscribe": false,
       "lowUptime": true
+    },
+    {
+      "title": "Plebbit AI",
+      "address": "plebbitai.eth",
+      "tags": [],
+      "seeditAutoSubscribe": true,
+      "plebchanAutoSubscribe": true,
+      "lowUptime": false
     }
   ]
 }
