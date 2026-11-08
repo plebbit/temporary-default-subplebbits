@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Plebbit has rebranded to [Bitsocial](https://bitsocial.net).** This repository is archived and preserved for historical reference.
+>
+> Current community directories and default subscription lists are maintained in [bitsocialnet/lists](https://github.com/bitsocialnet/lists).
+>
+> Find current projects at [@bitsocialnet](https://github.com/bitsocialnet).
+
 # temporary-default-subplebbits
 
 ### NOTE: ./subplebbits.json is deprecated, use ./multisub.json instead
